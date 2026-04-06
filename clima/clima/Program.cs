@@ -19,7 +19,7 @@ for (int i = 0; i < 12; i++)
 {
 
 
-    Console.WriteLine("coloca la presipitacio del mes " + meses[i]);
+    Console.WriteLine("coloca la temperatura del mes " + meses[i]);
     temp[i] = float.Parse(Console.ReadLine());
 
 
@@ -60,6 +60,7 @@ for (int i = 0; i < 12; i++)
     }
 
 
+    // coso de los aridos
 
 
 for (int i = 0; i < 12; i++)
@@ -102,28 +103,61 @@ for (int i = 0; i < 12; i++)
 
     if (presipitacion[i] > 2000)
     {
-        prestipo[i] = "excesivamente";
+        prestipo[i] = "excesivamente lluvioso";
     }
 
 
 }
 
 
+// comparacion  temperatura mayor y menor
+
+float temperatura_mayor = -89;
+
+string maximo_mes= "";
+
+for (int i = 0; i < 12; i++)
+{
+
+    
+
+    if (temp[i] > temperatura_mayor  )
+    {
+        temperatura_mayor = temp[i];
+        maximo_mes = meses[i];
+    }
+
+
+}
+
+Console.WriteLine("la  temperatura mayor   es  " + temperatura_mayor +  "  del mes  " + maximo_mes );
 
 
 
-float temperatura_mayor;
+
+
+
+
+float temperatura_menor = 57;
+
+string menor_mes = "";
 
 for (int i = 0; i < 12; i++)
 {
 
 
 
-    if (temp[i] > temperatura_mayor  )
+    if (temp[i] < temperatura_menor)
     {
-       
+        temperatura_menor = temp[i];
+        menor_mes = meses[i];
     }
 
 
 }
 
+Console.WriteLine("la  temperatura menor   es  " + temperatura_menor + "  del mes  " + menor_mes);
+
+
+
+//--------------------------------------------------------------------------------------presipitcion
