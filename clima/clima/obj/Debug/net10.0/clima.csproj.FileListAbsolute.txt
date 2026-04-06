@@ -1,0 +1,14 @@
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\bin\Debug\net10.0\clima.exe
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\bin\Debug\net10.0\clima.deps.json
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\bin\Debug\net10.0\clima.runtimeconfig.json
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\bin\Debug\net10.0\clima.dll
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\bin\Debug\net10.0\clima.pdb
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.AssemblyInfoInputs.cache
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.AssemblyInfo.cs
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.csproj.CoreCompileInputs.cache
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.dll
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\refint\clima.dll
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.pdb
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\clima.genruntimeconfig.cache
+C:\Users\Gise\Documents\laboratorio 5 año\clima\clima\obj\Debug\net10.0\ref\clima.dll
