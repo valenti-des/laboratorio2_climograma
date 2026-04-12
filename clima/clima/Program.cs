@@ -116,6 +116,9 @@ for (int i = 0; i < 12; i++)
     {
         temptipo[i] = "cálido";
     }
+
+    Console.WriteLine($"esta temperatura es {temptipo[i]} del mes  {meses[i]}");
+
 }
 
 
@@ -142,6 +145,9 @@ for (int i = 0; i < 12; i++)
     {
         prestipo[i] = "excesivamente lluvioso";
     }
+
+
+    Console.WriteLine($"esta temperatura es {prestipo[i]} del mes  {meses[i]}");
 
 
 }
@@ -247,7 +253,7 @@ for (int i = 0; i < 12; i++)
 
 }
 
-Console.WriteLine("la  temperatura menor   es  " + presipitacion_menor + "  del mes  " + menorp_mes);
+Console.WriteLine("la  presipitacion menor   es  " + presipitacion_menor + "  del mes  " + menorp_mes);
 
 
 
@@ -276,4 +282,24 @@ Console.WriteLine($"la temperatura promedio del año es {promedio_temp}");
 
 
 
-//--------------------------------------------------------------------------------------presipitcion promedio
+//--------------------------------------------------------------------------------------presipitcion total
+
+
+float totalpresi = default;
+
+for (int i = 0; i < 12; i++)
+{
+
+
+
+    totalpresi = totalpresi + presipitacion[i];
+
+}
+
+
+Console.WriteLine($"la presipitacion total del año es {totalpresi}");
+
+
+
+
+
