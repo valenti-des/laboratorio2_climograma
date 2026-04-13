@@ -1,0 +1,14 @@
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\bin\Debug\net10.0\ahorcado de  proy.exe
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\bin\Debug\net10.0\ahorcado de  proy.deps.json
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\bin\Debug\net10.0\ahorcado de  proy.runtimeconfig.json
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\bin\Debug\net10.0\ahorcado de  proy.dll
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\bin\Debug\net10.0\ahorcado de  proy.pdb
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.AssemblyInfoInputs.cache
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.AssemblyInfo.cs
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.csproj.CoreCompileInputs.cache
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.dll
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\refint\ahorcado de  proy.dll
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.pdb
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ahorcado de  proy.genruntimeconfig.cache
+C:\Users\Gise\Documents\laboratorio 5 año\ahorcado de  proy\ahorcado de  proy\obj\Debug\net10.0\ref\ahorcado de  proy.dll
