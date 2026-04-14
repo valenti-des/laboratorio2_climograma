@@ -1,0 +1,14 @@
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\bin\Debug\net10.0\climograma completo.exe
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\bin\Debug\net10.0\climograma completo.deps.json
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\bin\Debug\net10.0\climograma completo.runtimeconfig.json
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\bin\Debug\net10.0\climograma completo.dll
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\bin\Debug\net10.0\climograma completo.pdb
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.AssemblyInfoInputs.cache
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.AssemblyInfo.cs
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.csproj.CoreCompileInputs.cache
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.dll
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\refint\climograma completo.dll
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.pdb
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\climograma completo.genruntimeconfig.cache
+C:\Users\Gise\Documents\laboratorio 5 año\climograma completo\climograma completo\obj\Debug\net10.0\ref\climograma completo.dll
